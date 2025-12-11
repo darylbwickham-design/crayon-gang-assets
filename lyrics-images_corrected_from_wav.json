@@ -9,7 +9,6 @@
   { "t": 34100,  "img": "images/line_008.png" },
   { "t": 38180,  "img": "images/line_009.png" },
   { "t": 40200,  "img": "images/line_010.png" },
-
   { "t": 48140,  "img": "images/line_011.png" },
   { "t": 52080,  "img": "images/line_012.png" },
   { "t": 56070,  "img": "images/line_013.png" },
@@ -20,7 +19,6 @@
   { "t": 74100,  "img": "images/line_018.png" },
   { "t": 78190,  "img": "images/line_019.png" },
   { "t": 80230,  "img": "images/line_020.png" },
-
   { "t": 81210,  "img": "images/line_021.png" },
   { "t": 86000,  "img": "images/line_022.png" },
   { "t": 89000,  "img": "images/line_023.png" },
@@ -31,7 +29,6 @@
   { "t": 110000, "img": "images/line_028.png" },
   { "t": 116000, "img": "images/line_029.png" },
   { "t": 120130, "img": "images/line_030.png" },
-
   { "t": 123100, "img": "images/line_031.png" },
   { "t": 126100, "img": "images/line_032.png" },
   { "t": 130190, "img": "images/line_033.png" },
