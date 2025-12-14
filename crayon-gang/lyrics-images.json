@@ -150,5 +150,7 @@
   {
     "t": 159800,
     "img": "images/line_038.png"
-  }
+  },
+   { "t": 174800, "message": "song end" }
+]
 ]
